@@ -23,7 +23,7 @@
 - Run npm start to test that your client is running on port 3000
 
 ### 3) Create Base Client Components
-- Create a Layouts, Pages and Components folders in the ./src folder
+- Create Layouts, Pages and Components folders in the ./src folder
 - Create the following files and react components in those files: 
 	- _Note_: For now, keep these as basic react components.
 	- Create a new layout called GlobalLayout
